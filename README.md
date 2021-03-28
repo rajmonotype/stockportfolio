@@ -15,6 +15,7 @@ Small stock portfolio sample code written in NodeJs and express
 Solution with routes:
 
 Base url: localhost:8080
+
 // ********* Fetch all trades resp to their tickerids **************
 
 /v1/trades/fetch
